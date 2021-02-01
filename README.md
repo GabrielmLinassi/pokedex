@@ -8,4 +8,4 @@ This is a Next.js Pokedex application made with PokeAPI and Tailwind.css that pr
 - Uses Static-page generator (nextjs getStaticProps) to generate the index page with all the 150 pokemons on the build
 - Uses SSR (Nextjs GetServerSideProps) to fetch the pokemon details so it's rendered dynamic on demand.
 
-Live version can be accessed on [https://pokedex-phi-sage.vercel.app/pokemon?id=3](https://pokedex-phi-sage.vercel.app)
+Live version can be accessed on [https://pokedex-phi-sage.vercel.app](https://pokedex-phi-sage.vercel.app)
